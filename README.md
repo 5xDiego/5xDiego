@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on React Vite Websites
 - 🌱 I’m currently learning C++
-<br/>
 
 ## Skills
 
