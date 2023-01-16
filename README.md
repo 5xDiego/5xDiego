@@ -2,7 +2,7 @@
 ## My name is Diego! 
 
 - 🔭 I’m currently working on React Vite Websites
-- 🌱 I’m currently learning Next.js and Svelte
+- 🌱 I’m currently learning Next.js, Svelte and TypeScript
 
 ## Skills
 
